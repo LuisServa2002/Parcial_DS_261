@@ -47,20 +47,20 @@ El estado de la incidencia se actualiza y queda disponible en la API.
 
 Inicia reporte: 
 
-![alt text](iniciar_reporte.png)
+![Inicio de reporte](imagenes/iniciar_reporte.png)
 
 Verificamos que se ha enviado:
 
-![alt text](reporte_almacenado.png)
+![Reporte almacenado](imagenes/reporte_almacenado.png)
 
 Verificamos la imagen:
 
-![alt text](resultado_imagen.png)
+![Visualizar multimedia](imagenes/resultado_imagen.png)
 
-Además el operador municipal podrá visualizar los reportes generados y decidi si lo resuelvo o no.
+Además el operador municipal podrá visualizar los reportes generados y decidir si lo resuelvo o no.
 
-![alt text](put_incidente.png)
+![Modificar incidencia](imagenes/put_incidente.png)
 
 
-![alt text](resultado_put.png)
+![Resultado de actualización](imagenes/resultado_put.png)
 

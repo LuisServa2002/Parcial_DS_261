@@ -88,7 +88,7 @@ Para realizar dichas solicitudes CRUD , se especifica algunos ejemplos en `docs/
 - `docs/casos_de_uso.md`
 - `docs/arquitectura.md`
 - `docs/flujo_gitflow.md`
-- `docs/informe.md`
+- `docs/casos_prueba.md`
 
 Además visualizamos el progreso de las tareas creadas en el Jira.
 
